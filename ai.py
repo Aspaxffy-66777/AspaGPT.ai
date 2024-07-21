@@ -1,7 +1,7 @@
 import openai
 
 def main():
-    prompt = "Merhaba, size nasıl yardımcı olabilirim?"
+    prompt = "hi"
 
     while True:
         user_input = input("> ")
